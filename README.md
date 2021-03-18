@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Marco
 - 👀 I’m interested in climate data analysis and data visualization
 - 🌱 I’m currently learning to defeat the intense cypriot heat
-- 💞️ I’m looking to collaborate on ...
+- 💞️ When not busy working, I enjoy beach ultimate frisbee. 
 - 📫 How to reach me ...
 
 <!---
