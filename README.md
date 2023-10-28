@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Marco
 - 👀 I’m interested in climate data analysis and data visualization
-- 🌱 I’m currently learning to defeat the intense cypriot heat
 - 💞️ When not busy working, I enjoy eating fresh fish, the company of my friends, being lazy on the couch, riding my motorbike, swimming in clear waters somewhere on this wanderful island.
 - 📫 [How to reach me ...](https://www.cyi.ac.cy/index.php/care-c/about-the-center/care-c-our-people/author/1084-marco-miani.html)
 
